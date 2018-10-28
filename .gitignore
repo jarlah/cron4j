@@ -1,2 +1,6 @@
 .idea
 target
+bin
+doc/api
+*.jar
+*.zip
